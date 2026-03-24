@@ -21,6 +21,7 @@ O **RPTunas** é uma aplicação web desenvolvida em Angular com o objetivo de a
 - TypeScript
 - HTML5
 - CSS3
+- Node.js
 
 ---
 
@@ -31,6 +32,7 @@ O **RPTunas** é uma aplicação web desenvolvida em Angular com o objetivo de a
 Antes de iniciar, é necessário ter instalado:
 
 - Angular CLI
+- Node.js
 
 Instalar Angular CLI:
 
