@@ -15,5 +15,8 @@ export const routes: Routes = [
       { path: 'produtos', component: ProductsComponent },
       { path: '', redirectTo: 'dashboard', pathMatch: 'full' }
     ]
-  }
+  },
+
+  { path: 'register',  loadComponent: () => import('./register/register.component').then(m => m.RegisterComponent)}
+
 ];
